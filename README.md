@@ -8,9 +8,7 @@
 
 <!-- <div>&nbsp;</div>
 ![GitHub Contributions](http://127.0.0.1:5000/snake/lucianma05-create)
-</div> -->
-
-## 📊  **About Me**
+</div>-->
 
 <div>
   <a href="https://lucianma05-create.github.io/about/"><img src="https://img.shields.io/badge/About-学术主页-blue" alt="Academic Homepage" /></a>&emsp;
@@ -18,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=lucianma05-create&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 
-<!-- <img align="right" width="88" src="assets/images/jobs.png" /> -->
+# 📊  *About Me*
+
+
 
 I am currently a first-year **Master’s student** in CS at [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/), Xi’an, China.</p>
 
