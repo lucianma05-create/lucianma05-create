@@ -22,7 +22,7 @@
 
 
 
-I am currently a first-year **Master’s student** in CS at [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/), Xi’an, China.</p>
+I am currently a second-year **Master’s student** in CS at [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/), Xi’an, China.</p>
 
 Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2025.</p>
 
