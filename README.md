@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://lucianma05-create.github.io/about/"><img src="https://img.shields.io/badge/About-学术主页-blue" alt="Academic Homepage" /></a>&emsp;
-  <a href="https://space.bilibili.com/284248345?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="西河区-Wall" /></a>&emsp;
+  <a href="https://space.bilibili.com/284248345?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/西河区-Wall-B站-ff69b4" alt="bilibili" /></a>&emsp;
   <a href="https://upstra.tech/index.html"><img src="https://img.shields.io/badge/Upstra-Official-8A2BE2" alt="Upstra" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=lucianma05-create&label=Views&color=orange&style=flat" alt="访问量统计" />
   
