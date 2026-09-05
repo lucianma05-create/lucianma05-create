@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Minghui Ma
 
-## About Me
-
 <div align="left">
 
 <a href="https://lucianma05-create.github.io/about/"><img src="https://img.shields.io/badge/MinghuiMa-Academic%20Homepage-blue" alt="Academic Homepage" /></a>
