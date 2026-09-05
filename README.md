@@ -17,4 +17,4 @@ Prior to this, I received my B.E. degree in Computer Science from Northwestern P
 
 My research interests include **Social AI**, **Large Language Models**, and **World Models**.
 
-I am particularly interested in building more general and adaptive intelligent agents through **World Models** and **Reinforcement Learning**.
+I am particularly interested in building Artificial General Intelligence using **World Models** and **Reinforcement Learning**.
