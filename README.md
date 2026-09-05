@@ -1,35 +1,20 @@
-<div align="center">
+# 👋 Hi, I'm Minghui Ma
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=console.log(%22Hello%2C%20World%22);Welcome%20to%20Lucian%20Ma%27s%20homepage&center=true&size=27)
+## About Me
 
-<img src="assets/images/coding.gif" alt="Coding animation" width="600" />
+<div align="left">
 
-<div>&nbsp;</div>
+<a href="https://lucianma05-create.github.io/about/"><img src="https://img.shields.io/badge/MinghuiMa-Academic%20Homepage-blue" alt="Academic Homepage" /></a>
+  <a href="https://space.bilibili.com/284248345"><img src="https://img.shields.io/badge/西河区Wall-Bilibili-ff69b4" alt="Bilibili" /></a>
+  <a href="https://upstra.tech/index.html"><img src="https://img.shields.io/badge/Upstra-Official%20Website-8A2BE2" alt="Upstra Official Website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lucianma05-create&label=Views&color=orange&style=flat" alt="Views" />
 
-<!-- <div>&nbsp;</div>
-![GitHub Contributions](http://127.0.0.1:5000/snake/lucianma05-create)
-</div>-->
-
-<div>
-  <a href="https://lucianma05-create.github.io/about/"> <img src="https://img.shields.io/badge/MinghuiMa-Academic%20Homepage-blue" alt="Academic Homepage" /></a>&emsp;
-  <a href="https://space.bilibili.com/284248345?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/西河区Wall-Bilibili-ff69b4" alt="Bilibili" /></a>&emsp;
-  <a href="https://upstra.tech/index.html"><img src="https://img.shields.io/badge/Upstra-Official%20Website-8A2BE2" alt="Upstra Official Website" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=lucianma05-create&label=Views&color=orange&style=flat" alt="Views" />
 </div>
 
-# 📊  *About Me*
+I am currently a second-year **Master's student in Computer Science** at [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/), Xi'an, China.
 
+Prior to this, I received my B.E. degree in Computer Science from Northwestern Polytechnical University in 2025.
 
+My research interests include **Social AI**, **Large Language Models**, and **World Models**.
 
-I am currently a second-year **Master’s student** in CS at [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/), Xi’an, China.</p>
-
-Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2025.</p>
-
-My research interests include **Social Influence Dialogue Systems**, **Large Language Models** and **World Models**. </p>
-
-I am particularly interested in building Artificial General Intelligence using **World Models** and **Reinforcement Learning**.</p>
-
-
-
-
-
+I am particularly interested in building more general and adaptive intelligent agents through **World Models** and **Reinforcement Learning**.
